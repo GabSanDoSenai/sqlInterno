@@ -163,6 +163,7 @@ export function Index() {
 
 const styles = StyleSheet.create({
   container: {
+    marginTop: 40,
     flex: 1,
     justifyContent: "center",
     padding: 32,
